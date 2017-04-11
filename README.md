@@ -19,3 +19,4 @@ I have no name!@e7fbd02d061f:/home/linuxbrew$ prokka --setupdb
 I have no name!@e7fbd02d061f:/home/linuxbrew$ prokka contigs.fasta
 
 # this will put the output in `/data` inside the container, which is the same as the directory where you stored the bacterial genome fasta file.
+```
